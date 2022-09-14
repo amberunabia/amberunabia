@@ -1,6 +1,6 @@
-### Hi, my name is Amber!
-- I am currently a senior at Chaminade University of Honolulu
-- Majoring in Community and Public Health, Minoring in Psychology, and pursuing a Certificate in Data Science
+### Hi, my name is Amber! 👋🏼
+- I am currently a senior at Chaminade University of Honolulu 📚
+- Majoring in Community and Public Health, Minoring in Psychology, and pursuing a Certificate in Data Science✨
 
 
 <!--
