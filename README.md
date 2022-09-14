@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, My name is Amber!
+- I am currently a senior at Chaminade University of Honolulu
+- Majoring in Community and Public Health, Minoring in Psychology, and pursuing a Certificate in Data Science
+
 
 <!--
 **amberunabia/amberunabia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
